@@ -1,8 +1,10 @@
-# Alexandru Mihailescu
+![Alexandru Mihailescu. Machine Learning Engineer. Neural networks, computer vision, reinforcement learning, embedded systems.](assets/banner.svg)
 
-Applied ML engineer working on computer vision and reinforcement learning, with a hardware background that goes all the way down: embedded firmware, control, mechanical design, and a 3D printer I rebuilt to make the parts.
+I build neural networks, and when the existing architectures do not fit the problem, I derive new ones. My current research is on the coupled dynamics of neural activity and synaptic change, and whether a single energy function still governs the joint system once the weights are allowed to adapt.
 
-MSc in Automation and Computer Engineering at the University of Padua, after a BSc in Biomedical Engineering and an industrial electronics diploma. Based in the Veneto, Italy.
+The applied side is computer vision and reinforcement learning, built on automation and control. MSc in Automation and Computer Engineering at the University of Padua, after a BSc in Biomedical Engineering and an industrial electronics diploma. Based in the Veneto, Italy.
+
+Full CV and writing: [artaeun.github.io](https://artaeun.github.io)
 
 ## Projects
 
