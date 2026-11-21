@@ -1,8 +1,8 @@
 ![Alexandru Mihailescu. Machine Learning Engineer. Neural networks, computer vision, reinforcement learning, embedded systems.](assets/banner.svg)
 
-I build neural networks, and when the existing architectures do not fit the problem, I derive new ones. My current research is on the coupled dynamics of neural activity and synaptic change, and whether a single energy function still governs the joint system once the weights are allowed to adapt.
+I work on neural networks, computer vision and reinforcement learning, on a foundation of control and embedded systems. My MSc thesis is on the coupled dynamics of neural activity and synaptic change, and on whether a single energy function still governs the joint system once the weights are allowed to adapt.
 
-The applied side is computer vision and reinforcement learning, built on automation and control. MSc in Automation and Computer Engineering at the University of Padua, after a BSc in Biomedical Engineering and an industrial electronics diploma. Based in the Veneto, Italy.
+MSc in Automation and Computer Engineering at the University of Padua, after a BSc in Biomedical Engineering and an industrial electronics diploma. Based in the Veneto, Italy.
 
 Full CV and writing: [artaeun.github.io](https://artaeun.github.io)
 
